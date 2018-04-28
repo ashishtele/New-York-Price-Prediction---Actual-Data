@@ -1,7 +1,6 @@
 # New-York-Price-Prediction (Actual-Data)
 
 GLOSSARY:
-
 Borough:
 The name of the borough in which the property is located.
 
@@ -14,12 +13,6 @@ This is a field that we are including so that users of the Rolling Sales Files c
 
 Tax Class at Present:
 Every property in the city is assigned to one of four tax classes (Classes 1, 2, 3, and 4), based on the use of the property.
-• Class 1: Includes most residential property of up to three units 
- (such as one-, two-, and three-family homes and small stores or offices with one or two attached apartments),
-  vacant land that is zoned for residential use, and most condominiums that are not more than three stories.
-• Class 2: Includes all other property that is primarily residential, such as cooperatives and condominiums.
-• Class 3: Includes property with equipment owned by a gas, telephone or electric company.
-• Class 4: Includes all other properties not included in class 1,2, and 3, such as offices, factories, warehouses, garage buildings, etc.
 
 Block:
 A Tax Block is a sub-division of the borough on which real properties are located.
