@@ -52,21 +52,37 @@ Date the property sold.
 Content:
 
 Problem Statement/Objective
+
 Source
+
 Exploratory Data Analysis	
+
 Characteristics that affect housing prices	
+
 Data Modification	
+
 Log Transformations	
+
 Normalizing and Standardizing the data	
-One-Hot Encoding: Categorical Data	
+
+One-Hot Encoding: Categorical Data
+
 Modeling	
+
 (a)Linear Regression:	
+
 (b) Regularized regression: Lasso and Ridge:	
+
 (c)Random Forest:	
+
 (d)Boosted Tree (Xgboost):	
+
 Learning Curve	
+
 Recommendations	
+
 1)Recommendations for customer who are investors:	
+
 2)Recommendations for Builders:	
 
 
