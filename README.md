@@ -51,8 +51,8 @@ Date the property sold.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Content:
 
-Problem Statement/Objective	
-Source	
+Problem Statement/Objective
+Source
 Exploratory Data Analysis	
 Characteristics that affect housing prices	
 Data Modification	
