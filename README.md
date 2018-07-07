@@ -1,6 +1,6 @@
 # New-York-Price-Prediction (Actual-Data)
 
-GLOSSARY:
+## GLOSSARY:
 Borough:
 The name of the borough in which the property is located.
 
@@ -49,7 +49,7 @@ Price paid for the property.
 Sale Date:
 Date the property sold.
 ----------------------------------------------------------------------------------------------------------------------------------------
-Content:
+## Content:
 
 Problem Statement/Objective
 
@@ -59,7 +59,7 @@ Exploratory Data Analysis
 
 Characteristics that affect housing prices	
 
-Data Modification	
+## Data Modification	
 
 Log Transformations	
 
@@ -67,7 +67,7 @@ Normalizing and Standardizing the data
 
 One-Hot Encoding: Categorical Data
 
-Modeling	
+## Modeling	
 
 (a)Linear Regression:	
 
@@ -79,7 +79,7 @@ Modeling
 
 Learning Curve	
 
-Recommendations	
+## Recommendations	
 
 1)Recommendations for customer who are investors:	
 
